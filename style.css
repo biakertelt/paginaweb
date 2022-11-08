@@ -1,11 +1,13 @@
-boby {
+
     body {
-        background-color: #FADC8F;}
+        background-color: #FADC8F;
+    }
+
       #img{
         width: 75%;
         border: 10px solid #86462F
       }
-}
+
 h1 {
     color: rgb(159, 92, 48);
     font-size: 30px;
