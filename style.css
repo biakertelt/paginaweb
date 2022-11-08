@@ -1,5 +1,10 @@
 boby {
-    background-color: rgb(232, 211, 159)
+    body {
+        background-color: #FADC8F;}
+      #img{
+        width: 75%;
+        border: 10px solid #86462F
+      }
 }
 h1 {
     color: rgb(159, 92, 48);
