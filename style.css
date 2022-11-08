@@ -1,8 +1,8 @@
 boby {
-    background-color: white;
+    background-color: rgb(232, 211, 159)
 }
 h1 {
-    color: rgb(99, 58, 31);
+    color: rgb(159, 92, 48);
     font-size: 30px;
     text-align: center;
 }
@@ -12,3 +12,9 @@ p{
 p{
     font-size: 20px;
 }
+
+ul {
+    display: inline-block;
+    margin-right: 15%;
+    vertical-aling: top;
+  }
